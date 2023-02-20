@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>427172218990-h4ej64ikv4uo8ngjeqpb2k0j0g9n76ol.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.427172218990-h4ej64ikv4uo8ngjeqpb2k0j0g9n76ol</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJJYZTgzloOhT0AgVg1yxENtzwX4HEn_U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>427172218990</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ruhil.anshul.CampusUniteNew</string>
+	<key>PROJECT_ID</key>
+	<string>campus-united-b537e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>campus-united-b537e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:427172218990:ios:52939965e31c7175063e7f</string>
+</dict>
+</plist>

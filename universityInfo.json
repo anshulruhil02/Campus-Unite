@@ -1,0 +1,51 @@
+[
+   {
+      "id":1,
+      "name":"university of waterloo",
+      "abbreviation":"UW",
+      "location":"Waterloo",
+      "description":"talk about uw",
+   },
+   {
+      "id":2,
+      "name":"university of toronto",
+      "abbreviation":"UofT",
+      "location":"Toronto",
+      "description":"talk about uOfT",
+   },
+   {
+      "id":3,
+      "name":"wilfrid laurier university",
+      "abbreviation":"WLU",
+      "location":"Waterloo",
+      "description":"talk about wlu",
+   },
+   {
+      "id":4,
+      "name":"western university",
+      "abbreviation":"UWO",
+      "location":"London",
+      "description":"talk about western",
+   },
+   {
+      "id":5,
+      "name":"university of british columbia",
+      "abbreviation":"UBC",
+      "location":"Vancouver",
+      "description":"talk about ubc",
+   },
+   {
+      "id":6,
+      "name":"university of guelph",
+      "abbreviation":"UofG",
+      "location":"Waterloo",
+      "description":"talk about G",
+   },
+   {
+      "id":7,
+      "name":"mcmaster university",
+      "abbreviation":"Mac",
+      "location":"Waterloo",
+      "description":"talk about Mcc",
+   }
+]
